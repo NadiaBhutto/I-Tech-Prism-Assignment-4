@@ -1,0 +1,600 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar-expand-lg{
+    background-color:	white !important;
+}
+
+.navbar-brand h2{
+	font-weight: 700;
+	font-size: 25px;
+	color: 	red;
+}
+
+.navbar-nav a{
+	font-weight: 450;
+	font-size: 20px;
+	color: red !important;
+}
+
+.navbar-nav a:hover{
+	background: red;
+	color: #fff !important;
+	transition: 0.5s;	
+}
+.navbar-nav .home{
+	background: red;
+	color: #fff !important;
+	transition: 0.5s;
+}
+
+/*Service started*/
+.servicesheading h1{
+	color: red;
+	text-align: center;
+	padding: 40px 0 0 0;
+	font-weight: 700;
+    font-size: 6vmin;
+	text-transform: uppercase;
+}
+
+.servicesheading p{
+	text-align: center;
+}
+
+.card-image img{
+    width: 90px !important;
+	margin-left:110px;
+    margin-top:30px;
+}
+
+.card-body h4{
+	color: 	red;
+	font-weight: 700px;
+	font-size: 23px;
+}
+
+/*section-1 about us*/
+.who-we-are-heading h1{
+	color: red;
+	text-transform: uppercase;
+	font-weight: 700;
+    font-size: 6vmin;
+	text-align: center;
+}
+.section-1{
+	padding: 3vmin 0;
+	background-color: #F5F5F5;
+
+}
+.section-1 .row .col-md-5 img{
+	width: 100%;
+}
+
+.section-1 .row .col-md-7 p{
+
+	color: rgba(0,0,0,0.5);
+	margin-top: 30px;
+}
+
+/*(What Our Clients say About us) Section 2*/
+
+.clientreviews h1{
+	color: red;
+	text-transform: uppercase;
+	font-weight: 700;
+    font-size: 6vmin;
+	padding-top: 4vmin;
+}
+
+.team{
+	padding: 6vmin 0vmin;
+}
+
+.card{
+	width: 25rem;
+	margin-top: 0vmin;
+}
+ .card .card-text{
+	 padding: 0.2em;
+ }
+
+.card .carousel-item{
+	 padding-left: 3rem;
+}
+
+.section-2-client-reviews{
+      background-image: url(123.png);
+	  background-size: cover;
+	  background-repeat: no repeat;
+}
+
+.card-body h3{
+	color: red;
+	font-weight: 700;
+	font-size: 25px;
+}
+
+.btn{
+	background-color: red !important;
+}
+
+.btn a{
+    text-decoration: none !important;
+	color: #fff !important;
+}
+
+
+
+/*Portfolio section started*/
+
+.portfolio{
+	padding: 3vmin 0;
+}
+
+.portfolio h1{
+	color: red;
+	text-transform: uppercase;
+	font-weight: 700;
+    font-size: 6vmin;
+	text-align: center;
+}
+
+
+/*Portfolio section closed*/
+/*Footer start*/
+.footerlinks ul li{
+	list-style:none;
+	display:inline;
+}
+.fbfooter{
+	line-height: 20px;
+	width: 30px;
+	height: 30px;
+	margin-top:15px;
+}
+.twitterfooter{
+	line-height: 20px;
+	width: 30px;
+	height: 30px;
+	margin-top:15px;
+}
+.instagramfooter{
+	line-height: 20px;
+	width: 30px;
+	height: 30px;
+    margin-top:15px;
+}
+.Linked-in{
+	line-height: 20px;
+	width: 40px;
+	height: 40px;
+	margin-top:15px;
+}
+.useful-links-footer a{
+	color: #fff !important;
+	display: block !important;
+	padding-top: 5px;
+}
+
+.last-section{
+	background-color: red;
+color: white;
+}
+/*Footer closed*/
+
+
+
+/*About page Start*/
+/*About Header image Start*/
+.navbar-nav .about-us{
+	background: red;
+	color: #fff !important;
+	transition: 0.5s;
+}
+.about-heading-css h3{
+	color: white;
+	text-transform: uppercase;
+	font-weight: 800;
+    font-size: 7vmin;
+}
+.about-page-header img{
+	height: 60%;
+}
+/*About Header image closed*/
+
+/*About Us page heading or paragraph Start*/
+.Section-1-about{
+	 background-image: url(banner_bg.png);
+	 padding-bottom: 30px;
+	 background-size: cover;
+	 background-repeat: no repeat;
+}
+.section-1-about h2{
+	color: red;
+	text-align: center;
+	padding: 50px 0 0 0;
+}
+.aboutus p{
+		padding: 50px 0 0 0;
+}
+.aboutus-image{
+	padding: 50px 0 20 0;
+}
+/*About Us page heading or paragraph closed*/
+
+/*Digital Experienced heading paragraph and images section start*/
+.section-2-about{
+	padding-bottom: 20px;
+}
+.section-2-about h2{
+	color: red;
+	padding: 30px 0 0 0;
+	text-align: center;
+}
+.section-2-about p{
+	text-align: center;
+	padding: 8px 0 0 0;
+}
+.digital-images{
+	padding: 15px 0 15 0;
+}
+/*Digital Experienced heading paragraph and images section closed*/
+
+/*Our Expertise section start*/
+.our-expertise-section{
+	background-color: #F5F5F5;
+	padding: 20px 0;
+}
+
+.our-expertise-section h1{
+	color: red;
+	padding: 10px 0 0 0;
+	text-align: center;
+}
+
+.Expertise-image{
+	margin-top: 30px;
+	margin-bottom:15px;
+}
+/*Our Expertise section closed*/
+.section-3-about{
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+.section-3-about h1{
+	font-weight: 600;
+    font-size: 5vmin;
+	color: black;
+}
+.section-3-about h3{
+	color: red;
+	font-size: 3vmin;
+}
+
+/*About page closed*/
+
+
+/*Contact-us page started*/
+
+.navbar-nav .contact-us{
+	background: red;
+	color: #fff !important;
+	transition: 0.5s;
+}
+/*Header image Start*/
+.contact-us-heading h3{
+	color: white;
+	text-transform: uppercase;
+	font-weight: 800;
+    font-size: 7vmin;
+}
+.contact-us-header img{
+	height: 60%;
+}
+/*Header image closed*/
+/*Contact form start*/
+.contact-section{
+	background:	#8B0000;
+}
+.contact-section h2{
+	color: #fff;
+	font-size: 30px;
+	font-weight: 700;
+	margin: 30px 0px 30px 40px;
+}
+.info{
+	position: relative;
+	margin: 20px 40px 10px 40px;
+}
+.address, .email-address, .number{
+	margin: 20px 0;
+	cursor: pointer;
+}
+.info img{
+	max-width: 100%;
+	filter: invert(1);
+}
+.info span{
+	color: #fff;
+	margin-left: 10px;
+	opacity: 0.5;
+	display: inline;
+}
+
+.info span:hover{
+	opacity: 1;
+}
+.sci{
+	position: relative;
+	display: flex;
+}
+.sci li{
+	list-style: none;
+	margin-right: 15px;
+	
+}
+.sci li a{
+	text-decoration: none;
+}
+
+.sci li img{
+	filter: invert(1);
+	opacity: 0.5;
+	width:45px;
+}
+.sci li:hover a img{
+	opacity: 1;
+}
+/*Contact form closed*/
+
+.contact-section-2 h2{
+	color: red;
+	font-size: 30px;
+	font-weight: 700;
+	margin: 30px 0px 30px 40px;
+}
+.submit-button{
+	background-color: red !important;
+	color: white;
+	margin: 5px 0px 5px 65px;
+	padding: 10px 100px 10px 100px;
+	text-align: center;
+}
+
+/*Contact-us page closed*/
+
+
+/*Portfolio page started*/
+
+.navbar-nav .portfolio{
+	background: red;
+	color: #fff !important;
+	transition: 0.5s;
+}
+/*portfolio images start*/
+.Web-Designing-Development h1{
+	color: red;
+	text-align: center;
+	padding: 30px 0 20 0;
+	font-weight: 700;
+    font-size: 5vmin;
+	text-transform: uppercase;
+}
+
+.first-row{
+	margin-bottom: 20px;
+}
+
+.Mobile-Application-Development h1{
+	color: red;
+	text-align: center;
+	padding: 40px 0 20 0;
+	font-weight: 700;
+    font-size: 5vmin;
+	text-transform: uppercase;
+}
+.Graphic-Designing h1{
+	color: red;
+	text-align: center;
+	padding: 40px 0 20 0;
+	font-weight: 700;
+    font-size: 5vmin;
+	text-transform: uppercase;
+}
+.graphic-row{
+	margin-bottom: 20px;
+}
+/*portfolio images closed*/
+
+/*Portfolio page closed*/
+
+
+
+/*Services page started*/
+.navbar-nav .services{
+	background: red;
+	color: #fff !important;
+	transition: 0.5s;
+}
+.servicesheading h3{
+	color: red;
+	text-align: center;
+	padding: 50px 0 0 0;
+}
+.services-card img{
+	width: 120px !important;
+	margin-left:110px;
+	margin-top:40px;
+}
+
+/*Services page closed*/
+
+
+
+
+/*Digital Marketing page started*/
+/*section-1 started*/
+.section-1-D-M{
+	margin: 30px 0;
+}
+.Digital-Marketing-heading h1{
+	color: red;
+	text-transform: uppercase;
+	font-weight: 700;
+    font-size: 6vmin;
+	text-align: center;
+}
+.section-1-D-M .row .col-md-5 img{
+	width: 100%;
+}
+.section-1-D-M .row .col-md-7 p{
+    margin-top:20px;
+	color: rgba(0,0,0,0.5);
+}
+/*section-1 closed*/
+/*Digital Marketing page closed*/
+
+
+
+
+/*Domain & Hosting page started*/
+
+/*section-1 started*/
+.section-1-domain-hosting{
+	margin: 30px 0;
+}
+.Digital-Marketing-heading h1{
+	color: red;
+	text-transform: uppercase;
+	font-weight: 700;
+    font-size: 6vmin;
+	text-align: center;
+}
+.section-1-domain-hosting .row .col-md-5 img{
+	width: 100%;
+}
+.section-1-domain-hosting .row .col-md-7 p{
+
+	color: rgba(0,0,0,0.5);
+}
+/*section-1 closed*/
+
+/*Domain & Hosting page closed*/
+
+
+
+/*Graphic designing page started*/
+/*section-1 started*/
+.section-1-graphic{
+	margin: 30px 0;
+}
+.graphic-heading h1{
+	color: red;
+	text-transform: uppercase;
+	font-weight: 700;
+    font-size: 6vmin;
+	text-align: center;
+}
+.section-1-graphic .row .col-md-5 img{
+	width: 90%;
+}
+.section-1-graphic .row .col-md-7 p{
+    margin-top:20px;
+	color: rgba(0,0,0,0.5);
+	margin-top: 20px
+}    
+/*section-1 closed*/
+/*Graphic designing page closed*/
+
+
+
+/*Mobile Application page started*/
+/*section-1 started*/
+.section-1-app-dev{
+	margin: 30px 0;
+}
+.Mobile-Application-heading h1{
+	color: red;
+	text-transform: uppercase;
+	font-weight: 700;
+    font-size: 6vmin;
+	text-align: center;
+}
+.section-1-app-dev .row .col-md-5 img{
+	width: 90%;
+}
+.section-1-app-dev .row .col-md-7 p{
+    margin-top:20px;
+	color: rgba(0,0,0,0.5);
+	margin-top: 20px
+}    
+/*section-1 closed*/
+/*Mobile Application page closed*/
+
+
+
+/*Web-Designing page started*/
+/*section-1 started*/
+.section-1-web-designing{
+	margin: 40px 0;
+}
+.Web-Designing-heading h1{
+	color: red;
+	text-transform: uppercase;
+	font-weight: 700;
+    font-size: 6vmin;
+	text-align: center;
+}
+.section-1-web-designing .row .col-md-5 img{
+	width: 100%;
+}
+.section-1-web-designing .row .col-md-7 p{
+    margin-top:20px;
+	color: rgba(0,0,0,0.5);
+}
+/*section-1 closed*/
+/*Web-Designing page closed*/
+
+
+
+
+/*Web-Development page started*/
+
+/*section-1 started*/
+.section-1-web-dev{
+	margin: 30px 0;
+}
+.Website-Development-heading h1{
+	color: red;
+	text-transform: uppercase;
+	font-weight: 700;
+    font-size: 6vmin;
+	text-align: center;
+}
+.section-1-web-dev .row .col-md-5 img{
+	width: 100%;
+}
+.section-1-web-dev .row .col-md-7 p{
+    margin-top:20px;
+	color: rgba(0,0,0,0.5);
+}
+/*section-1 closed*/
+
+
+/*Web-Development page closed*/
+
+
+
+
+
+
+
+
+
+
+
+
+
